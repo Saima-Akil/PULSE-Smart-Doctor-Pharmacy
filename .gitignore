@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+sam/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+sam/.env
+server/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and dist folders
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Cache
+.vite/
